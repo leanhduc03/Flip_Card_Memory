@@ -116,33 +116,8 @@ The application includes various assets:
 - Icons and UI elements
 - Sound effects for card flips and matches
 
-## Technical Implementation
 
-### Network Communication
-- Socket programming for client-server communication
-- Real-time data synchronization
-- Multi-threading for handling concurrent connections
 
-### Server Architecture
-- DAO pattern for database operations
-- Game session management
-- Turn-based gameplay control
-- Score calculation algorithms
 
-### Configuration
-Server configuration settings can be adjusted in the configuration files:
-- Port settings
-- Database connection parameters
-- Game-specific settings
 
-## Screenshots
 
-(Add screenshots here)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Authors
-
-(Add author information here)
